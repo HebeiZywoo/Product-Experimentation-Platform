@@ -1,0 +1,9 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.11
+statsmodels>=0.14
+duckdb>=1.0
+streamlit>=1.36
+joblib>=1.3
+
