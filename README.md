@@ -1,4 +1,4 @@
-# AI Product Experimentation & Causal Impact Platform
+# Product Experimentation & Causal Impact Platform
 
 An end-to-end product data science project for experimentation, causal inference, marketplace root-cause analysis, uplift targeting, and stakeholder-ready recommendations.
 

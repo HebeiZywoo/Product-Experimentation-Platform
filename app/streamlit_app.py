@@ -34,7 +34,7 @@ REQUIRED_OUTPUTS = [
 
 
 st.set_page_config(
-    page_title="AI Product Experimentation Platform",
+    page_title="Product Experimentation Platform",
     page_icon=":chart_with_upwards_trend:",
     layout="wide",
 )
@@ -401,7 +401,7 @@ st.markdown(
     """
     <div class="app-header">
       <div class="eyebrow">Product Data Science Workspace</div>
-      <h1 class="app-title">AI Product Experimentation & Causal Impact Platform</h1>
+      <h1 class="app-title">Product Experimentation & Causal Impact Platform</h1>
       <div class="app-subtitle">
         A decision workspace for evaluating feature launches, estimating causal impact, and targeting users by incremental lift.
       </div>

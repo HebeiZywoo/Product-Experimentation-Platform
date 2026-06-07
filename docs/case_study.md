@@ -1,4 +1,4 @@
-# Case Study: AI Product Experimentation & Causal Impact Platform
+# Case Study: Product Experimentation & Causal Impact Platform
 
 ## Business Question
 
