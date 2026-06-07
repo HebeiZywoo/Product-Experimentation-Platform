@@ -1,2 +1,1 @@
-"""Product experimentation and causal impact portfolio project."""
-
+"""Product experimentation and causal impact analysis project."""

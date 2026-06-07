@@ -1,6 +1,6 @@
 # AI Product Experimentation & Causal Impact Platform
 
-An end-to-end Data Scientist portfolio project for product experimentation, causal inference, marketplace root-cause analysis, uplift targeting, and stakeholder-ready recommendations.
+An end-to-end product data science project for experimentation, causal inference, marketplace root-cause analysis, uplift targeting, and stakeholder-ready recommendations.
 
 ## 30-Second Summary
 
@@ -30,7 +30,7 @@ I built a full workflow with Python, DuckDB SQL, scikit-learn, statsmodels, and 
 
 ## Why This Project Matters
 
-Many DS portfolio projects stop at "I trained a model." This one shows the broader product DS workflow:
+Many analytics projects stop at "I trained a model." This one shows the broader product data science workflow:
 
 - Frame a product launch decision.
 - Build reusable SQL analysis tables.
@@ -176,13 +176,3 @@ The project runs out of the box with an Olist-compatible fallback marketplace la
 - `olist_customers_dataset.csv`
 - `olist_products_dataset.csv`
 - `olist_order_payments_dataset.csv`
-
-## Suggested Resume Bullets
-
-- Built an end-to-end product experimentation platform using Python, DuckDB SQL, and Streamlit to analyze funnel conversion, retention cohorts, and feature launch impact.
-- Designed A/B testing workflow with confidence intervals, p-values, guardrail metrics, and power analysis for an AI onboarding recommendation feature.
-- Extended the analysis with an Olist-compatible marketplace layer, metric tree, root-cause diagnostics, and post-launch monitoring thresholds.
-- Added experiment QA checks including sample-ratio mismatch, pre-period balance, and guardrail validation before interpreting lift.
-- Estimated causal impact for a non-randomized campaign using propensity score matching and difference-in-differences, translating lift into revenue impact.
-- Trained conversion and uplift models with calibration, feature explanation, and threshold business-value analysis to prioritize high-impact users.
-- Deployed a reproducible dashboard with model card, experiment design notes, data dictionary, and grounded analyst copilot.
