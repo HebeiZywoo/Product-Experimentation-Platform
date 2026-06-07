@@ -2,7 +2,7 @@
 
 An end-to-end product data science project for experimentation, causal inference, marketplace root-cause analysis, uplift targeting, and stakeholder-ready recommendations.
 
-[Live Demo](https://ai-experiment-causal-impact.streamlit.app/) | [GitHub Repository](https://github.com/HebeiZywoo/ai-product-experimentation-platform)
+[Live Demo](https://ai-experiment-causal-impact.streamlit.app/) | [GitHub Repository](https://github.com/HebeiZywoo/Product-Experimentation-Platform)
 
 ## 30-Second Summary
 
